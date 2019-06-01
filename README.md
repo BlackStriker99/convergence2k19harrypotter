@@ -1,4 +1,4 @@
-# udaan19-website
+# Convergence2k19-website
 
 ## Project setup
 ```
